@@ -1,3 +1,40 @@
 .logo{
+    position: absolute;
+    top: 70%;
+    left: 60%;
+    width: 700px;
+    height: 700px;
+    margin-top: -250px; /* Half the height */
+    margin-left: -250px; /* Half the width */
+}
 
+#box {
+    height: 30px;
+    width: 500px;
+    font-size: 18px;
+    position: absolute;
+    top: 50%;
+    left: 32%;
+}
+
+#button1 {
+    height: 30px;
+    width: 150px;
+    color: black;
+    background-color: lightgray;
+    font-size: 14px;
+    position: absolute;
+    top: 60%;
+    left: 38%;
+}
+
+#button2 {
+    height: 30px;
+    width: 150px;
+    color: black;
+    background-color: lightgray;
+    font-size: 14px;
+    position: absolute;
+    top: 60%;
+    left: 56%;
 }
